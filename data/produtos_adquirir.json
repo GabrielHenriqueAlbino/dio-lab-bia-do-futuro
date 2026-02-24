@@ -1,0 +1,13 @@
+[
+  {
+    "carro": "Honda Civic",
+    "versao": "Touring",
+    "valor": 265500.00
+  },
+  {
+    "casa": "Casa de Alvenaria",
+    "estilo_arquitetonico": "Contemporâneo",
+    "valor": 600000.00
+  }
+ 
+]
