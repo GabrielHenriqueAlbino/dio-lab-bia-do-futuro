@@ -7,17 +7,12 @@ Esta pasta contém o código do seu agente financeiro.
 ```
 src/
 ├── app.py              # Aplicação principal (Streamlit/Gradio)
-├── agente.py           # Lógica do agente
-├── config.py           # Configurações (API keys, etc.)
-└── requirements.txt    # Dependências
 ```
 
-## Exemplo de requirements.txt
+## Codigo Completo
 
 ```
-streamlit
-openai
-python-dotenv
+Todo código fonte está no arquivo 'app.py'
 ```
 
 ## Como Rodar
